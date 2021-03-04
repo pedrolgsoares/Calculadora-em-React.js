@@ -2,6 +2,7 @@
     display: flex;
     grid-column: 4 span;
     background-color: #0004;
+    color:#FFF;
     justify-content: flex-end;
     align-items: center;
     padding: 20px;
